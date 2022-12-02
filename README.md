@@ -1,33 +1,21 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Website Name: LaptopHut BD
+## Livelink
+*LaptopHut BD[Live link](https://used-laptop-74020.web.app/)
+# Website Link 
+* This is clint site link [github link ](https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Muhaiminulsarkar).
+* this is server side [git hub repo](https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-Muhaiminulsarkar).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# in this project,i use bootstrap framework for designing.
+# also i used react framework.
+# firebase authentication
+# React router dom
+# Auth context 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
