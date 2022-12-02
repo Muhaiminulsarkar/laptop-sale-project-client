@@ -36,7 +36,7 @@ const Blog = () => {
             <div className="lg:flex bg-base-300 bg-opacity-50 rounded-xl">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://www.cronj.com/blog/wp-content/uploads/inheritance.png"
+                src="https://dmitripavlutin.com/javascript-prototypal-inheritance/cover.png"
                 alt=""
               />
 
