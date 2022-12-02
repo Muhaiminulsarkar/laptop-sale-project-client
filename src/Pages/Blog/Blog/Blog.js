@@ -14,7 +14,7 @@ const Blog = () => {
             <div className="lg:flex bg-base-300 bg-opacity-50 rounded-xl ">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://miro.medium.com/max/1200/1*hYSKyofnqThnPIsYRfnUUQ.png"
+                src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
                 alt=""
               />
 
