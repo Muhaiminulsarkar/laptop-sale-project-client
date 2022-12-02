@@ -8,11 +8,11 @@
 
 
 
-# in this project,i use bootstrap framework for designing.
-# also i used react framework.
-# firebase authentication
-# React router dom
-# Auth context 
+* in this project,i use bootstrap framework for designing.
+* also i used react framework.
+* firebase authentication
+* React router dom
+* Auth context 
 
 
 
