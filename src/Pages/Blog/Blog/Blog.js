@@ -78,7 +78,7 @@ const Blog = () => {
             <div className="lg:flex bg-base-300 bg-opacity-50 rounded-xl">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://www.simplilearn.com/ice9/free_resources_article_thumb/recact_angular_vue.jpg"
+                src="https://presence.agency/wp-content/uploads/2020/07/1_lC1kj3IeXoE8Z3OCKJoWkw.jpeg"
                 alt=""
               />
 
