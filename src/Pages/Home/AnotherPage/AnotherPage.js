@@ -1158,7 +1158,7 @@ const AnotherPage = () => {
             <span class="block">Ready to dive in?</span>
             <span class="block text-indigo-600">Start your free trial today.</span>
 
-            <p className='text-xl mr-4'>Lenovo has launched a new gaming-oriented laptop in India, the Lenovo Legion 5 Pro. The brand had unveiled the laptop earlier this year for global markets. The Lenovo Legion 5 Pro comes as an advanced variant of the Lenovo Legion 5 that is already on sale in the country. It packs the AMD Ryzen 5000 series CPU, which is the latest CPU lineup from the brand for laptops. The laptop also has the Nvidia RTX 3000 series GPU, which is the latest GPU lineup from the company. The Lenovo Legion 5 Pro is a direct competitor to the Asus Zephyrus G15 that was launched in India a couple of months ago. Anyway, let us have a look at the Lenovo Legion 5 Pro price in India and its specifications.</p>
+            <p className='text-xl mr-4'>Lenovo has launched a new gaming-oriented laptop in India, the Lenovo Legion 5 Pro. The brand had unveiled the laptop earlier this year for global markets. The Lenovo Legion 5 Pro comes as an advanced variant of the Lenovo Legion 5 that is already on sale in the country. It packs the AMD Ryzen 5000 series CPU, which is the latest CPU lineup from the brand for laptops. The laptop also has the Nvidia RTX 3000 series GPU, which is the latest GPU lineup from the company. The Lenovo Legion 5 Pro is a direct competitor to the Asus Zephyrus G15 that was launched in India a couple of months ago. Anyway, let us have a look at the Lenovo Legion 5 Pro price in India and its .</p>
             
           </h2>
           
