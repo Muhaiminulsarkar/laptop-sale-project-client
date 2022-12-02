@@ -116,7 +116,7 @@ const Signup = () => {
                 </div>
 
                 <select
-                  className="select select-bordered w-full text-white"
+                  className="select select-bordered w-full text-indigo-800"
                   {...register("role")}
                 >
                   <option value="buyer" defaultValue="buyer">
