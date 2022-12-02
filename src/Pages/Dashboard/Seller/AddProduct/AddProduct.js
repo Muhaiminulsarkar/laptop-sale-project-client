@@ -94,8 +94,8 @@ const AddProduct = () => {
             <option value="Apple" defaultValue="Apple">
               Apple
             </option>
-            <option value="Android">Android</option>
-            <option value="Tablet">Tablet</option>
+            <option value="Hp">Hp</option>
+            <option value="Acer">Acer</option>
           </select>
 
           <input
