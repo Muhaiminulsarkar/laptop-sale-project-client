@@ -57,7 +57,7 @@ const Blog = () => {
             <div className="lg:flex bg-base-300 bg-opacity-50 rounded-xl">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://www.seguetech.com/wp-content/uploads/2014/10/segue-blog-benefits-unit-testing.png"
+                src="https://assets.codegrip.tech/wp-content/uploads/2019/10/04113325/1_Y07KF-_laqG2cJ1Squ0Bag.png"
                 alt=""
               />
 
